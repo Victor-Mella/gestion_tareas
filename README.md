@@ -1,2 +1,2 @@
 # gestion_tareas
-Practicando arquitectura hexadecimal con Python y fast api
+Practicando arquitectura hexagonal con Python y fast api
